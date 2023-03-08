@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhishekS100
 - 👀 I’m interested in Core Java Programming and Full Stack Web Development.
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 💞️ I’m looking to collaborate on projects related to web development.
+- 🌱 I’m skilled at Data Structures and Algorithms.
+- 💞️ I’m looking to collaborate on projects related to app & web development.
 - 📫 How to reach me abhisheksharma558855@gmail.com
 
 <!---
