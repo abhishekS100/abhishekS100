@@ -2,7 +2,7 @@
 - 👀 I’m interested in Core Java Programming and Full Stack Web Development.
 - 🌱 I’m skilled at Data Structures and Algorithms.
 - 💞️ I’m looking to collaborate on projects related to App & Web development.
-- 📫 How to reach me https://www.portfolio-azure-six-40.vercel.app/
+- 📫 How to reach me https://portfolio-azure-six-40.vercel.app/
 - 📨 abhisheksharma558855@gmail.com
 
 <!---
