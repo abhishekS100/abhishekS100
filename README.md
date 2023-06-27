@@ -31,6 +31,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<br/>
 <p align="left">
    <a href="https://www.java.com" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
@@ -72,7 +73,7 @@ You can click the Preview link to take a look at your changes.
               alt="nextjs"
               width="40"
               height="40" /> </a>
-  <br/>
+  <br/><br/>
    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
               alt="nodejs"
