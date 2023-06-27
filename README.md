@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
   
 - 👯  I’m looking to collaborate on projects related to App & Web development.
 
-- 👨‍💻 Take a look at my portfolio[ [https://portfolio-virid-seven-98.vercel.app/](https://portfolio-virid-seven-98.vercel.app/)](https://portfolio-azure-six-40.vercel.app/)
+- 👨‍💻 Take a look at my portfolio *http://portfolio-azure-six-40.vercel.app*
 
 - 💬 Ask me about *java,nodejs,api,etc.*
 
