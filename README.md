@@ -13,11 +13,11 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m skilled at Data Structures and Algorithms.
   
-- 👯  I’m looking to collaborate on projects related to App & Web development.
+- 👯 I’m looking to collaborate on projects related to App & Web development.
 
 - 👨‍💻 Take a look at my portfolio *http://portfolio-azure-six-40.vercel.app*
 
-- 💬 Ask me about *java,nodejs,api,etc.*
+- 💬 Ask me about *java,nodejs,rest-api,cybersecurity etc.*
 
 - 📫 How to reach me *abhisheksharma558855@gmail.com*
 
@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.instagram.com/abhishek_s1729/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekS100" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Frameworks:</h3>
 <br/>
 <p align="left">
    <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -134,4 +134,4 @@ You can click the Preview link to take a look at your changes.
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alienx1&show_icons=true&locale=en&layout=compact" alt="alienx1" /></p> -->
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alienx1&" alt="alienx1" /></p>
+<p style = "border : 2px solid blue"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alienx1&" alt="alienx1" /></p>
