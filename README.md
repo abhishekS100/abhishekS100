@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekS100&label=Profile%20views&color=0e75b6&style=flat" alt="alienx1" /> </p>
 
 - 🌱 I’m skilled at Data Structures and Algorithms.
-- 
+  
 - 👯  I’m looking to collaborate on projects related to App & Web development.
 
 - 👨‍💻 Take a look at my portfolio[ [https://portfolio-virid-seven-98.vercel.app/](https://portfolio-virid-seven-98.vercel.app/)](https://portfolio-azure-six-40.vercel.app/)
@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me *abhisheksharma558855@gmail.com*
 
-- ⚡ Fun fact *I am dumb af.*
+- ⚡ *Tech Enthusiast & Problem Solver*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -95,5 +95,6 @@ You can click the Preview link to take a look at your changes.
    </p>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alienx1&show_icons=true&locale=en&layout=compact" alt="alienx1" /></p> -->
+<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alienx1&" alt="alienx1" /></p>
