@@ -7,19 +7,19 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekS100&label=Profile%20views&color=0e75b6&style=flat" alt="alienx1" /> </p>
 
 - 🌱  I’m skilled at Data Structures and Algorithms.
   
-- 👯  I’m looking to collaborate on projects related to App & Web development.
+- 👯  I’m looking to collaborate on projects related to AWS & DevOps.
 
 - 👨‍💻  Take a look at my portfolio *http://portfolio-azure-six-40.vercel.app*
 
-- 💬  Ask me about *java, nodejs, rest-api, cybersecurity etc.*
+- 💬  Ask me about *AWS, DevOps, Docker, Kubernetes, CI/CD Pipelines, Cloud Security etc.*
 
-- 📫  How to reach me *abhisheksharma558855@gmail.com*
+- 📫  How to reach me *abhisqsha@gmail.com*
 
 - ⚡ *Tech Enthusiast & Problem Solver*
 
