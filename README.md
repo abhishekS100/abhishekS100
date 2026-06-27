@@ -70,7 +70,7 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,argocd" />
 
 </p>
 
