@@ -163,14 +163,8 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Abhishek%20Sharma&fontSize=55&fontAlignY=35&desc=AWS%20DevOps%20Engineer%20|%20Cloud%20Infrastructure%20|%20Kubernetes%20|%20Terraform&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Thank%20You&fontSize=55&fontAlignY=35&desc=AWS%20DevOps%20Engineer%20|%20Cloud%20Infrastructure%20|%20Kubernetes%20|%20Terraform&descAlignY=55&animation=fadeIn"/>
 </p>
-
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00C9FF,100:92FE9D&height=250&section=header&text=AWS%20DevOps%20Engineer&fontSize=45&fontColor=ffffff&animation=twinkling"/>
-</p>
-
 
 
 
@@ -178,32 +172,25 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 
 <p align="center">
 
-[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekS100&theme=github-compact&hide_border=true)](https://github.com/abhishekS100)
 
 </p>
 
 
 
 
-github-compact
-tokyo-night
-react-dark
-dracula
-github-dark
-rogue
-xcode
 
 
 
 
-https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night
+https://github-readme-activity-graph.vercel.app/graph?username=abhishekS100&theme=tokyo-night
 
 
 ## 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/abhishekS100/abhishekS100/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
