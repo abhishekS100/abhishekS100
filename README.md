@@ -36,7 +36,7 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 ## 🚀 DevOps 
 <p>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,git,github,prometheus,grafana,linux,bash,python,typescript,vscode,jira,confluence" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,git,github,prometheus,grafana,linux,bash,python,typescript,java,vscode" />
 
 </p>
 
