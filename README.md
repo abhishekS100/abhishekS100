@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
-    ## Hey👋, I'm Abhishek Sharma 
+     Hey👋, I'm Abhishek Sharma 
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF9900&center=true&vCenter=true&width=900&lines=AWS+DevOps+Engineer;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Cloud+Infrastructure;Linux+%7C+GitHub+Actions+%7C+Jenkins" />
@@ -41,7 +41,7 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 
 ---
 
-# ☁️ AWS Services
+## ☁️ AWS Services
 
 <p align="center">
 
@@ -61,7 +61,7 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 
 ---
 
-# 🚀 Contanerization and Orchestration
+## 🚀 Contanerization and Orchestration
 
 <p align="center">
 
@@ -71,7 +71,7 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 
 ---
 
-# 📈 Observability and Monitoring 
+## 📈 Observability and Monitoring 
 
 <p align="center">
 
@@ -82,7 +82,7 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 
 ---
 
-# 🔥 Continuous Integration(CI) and Continuous Delivery(CD)
+## 🔥 Continuous Integration(CI) and Continuous Delivery(CD)
 
 <p align="center">
 
@@ -135,13 +135,14 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 ```
 
 ---
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alienx1&show_icons=true&locale=en&layout=compact" alt="alienx1" /></p>
-<br/>
+
 
 <p style = "border : 5px solid #FFA500"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alienx1&" alt="alienx1" /></p>
 
 
 <h3 align="left">Connect with me:-></h3>
+<br>
+</br>
 <p align="left">
 <a href="https://linkedin.com/in/abhisheks100" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekS100" height="30" width="40" />
