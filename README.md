@@ -156,17 +156,7 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 </p>
 
 
-
-
-
-
-
-
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Thank%20You&fontSize=55&fontAlignY=35&desc=AWS%20DevOps%20Engineer%20|%20Cloud%20Infrastructure%20|%20Kubernetes%20|%20Terraform&descAlignY=55&animation=fadeIn"/>
-</p>
-
-
+---
 
 ## 💻 Contribution Graph
 
@@ -176,21 +166,11 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 
 </p>
 
-
-
-
-
-
-
-
-https://github-readme-activity-graph.vercel.app/graph?username=abhishekS100&theme=tokyo-night
-
-
-## 🐍 Contribution Snake
+---
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/abhishekS100/abhishekS100/output/github-contribution-grid-snake-dark.svg"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Thank%20You&fontSize=55&fontAlignY=35&desc=AWS%20DevOps%20Engineer%20|%20Cloud%20Infrastructure%20|%20Kubernetes%20|%20Terraform&descAlignY=55&animation=fadeIn"/>
 </p>
+
+
 
