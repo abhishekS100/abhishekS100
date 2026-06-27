@@ -36,7 +36,7 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 ## 🚀 DevOps 
 <p>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,git,github,prometheus,grafana,linux,bash,python,typescript,vscode" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,git,github,prometheus,grafana,linux,bash,python,typescript,vscode,jira,confluence" />
 
 </p>
 
@@ -102,7 +102,6 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 <p>
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudwatch" height="55"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cloudtrail" height="55"/>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 
 </p>
