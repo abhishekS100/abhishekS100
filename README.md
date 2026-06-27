@@ -80,7 +80,6 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 
 <p>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cdk" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudformation" height="55"/>
 <img src="https://skillicons.dev/icons?i=terraform" />
 
@@ -103,7 +102,7 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 <p>
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudwatch" height="55"/>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=cdk,opentelemetry,prometheus,grafana" />
 
 </p>
 
