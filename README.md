@@ -1,13 +1,20 @@
+
+<!---
+abhishekS100/abhishekS100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 <p align="center">
-    Hey👋, I'm Abhishek Sharma 
+    ## Hey👋, I'm Abhishek Sharma 
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF9900&center=true&vCenter=true&width=900&lines=AWS+DevOps+Engineer;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Cloud+Infrastructure;Linux+%7C+GitHub+Actions+%7C+Jenkins" />
 </p>
  
 
-### 🚀 AWS DevOps Engineer | Cloud Enthusiast | Automation Advocate
 
+### 🚀 AWS DevOps Engineer | Cloud Enthusiast | Automation Advocate
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekS100&label=Profile%20views&color=0e75b6&style=flat" alt="alienx1" /> </p>
 I'm a DevOps Engineer passionate about building scalable, secure, and highly available cloud infrastructure. I enjoy automating deployments, optimizing CI/CD pipelines, and managing Kubernetes environments on AWS.
 
 ---
@@ -25,16 +32,14 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 
 ---
 
-
-## 🚀 DevOps Tools
+## 🚀 DevOps 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,git,github,prometheus,grafana,ansible,linux,bash,python,nginx,vscode" />
 
 </p>
 
-
-
+---
 
 # ☁️ AWS Services
 
@@ -42,12 +47,9 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=ec2" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=s3" height="55"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vpc" height="55"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=iam" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=rds" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=lambda" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=dynamodb" height="55"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=route53" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=ecs" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=ecr" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=eks" height="55"/>
@@ -55,20 +57,21 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudfront" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudwatch" height="55"/>
 
-
 </p>
 
-# 🚀 Kubernetes
+---
+
+# 🚀 Contanerization and Orchestration
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,aws" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform" />
 
 </p>
 
 ---
 
-# 📈 Monitoring
+# 📈 Observability and Monitoring 
 
 <p align="center">
 
@@ -79,15 +82,15 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 
 ---
 
-# 🔥 CI/CD
+# 🔥 Continuous Integration(CI) and Continuous Delivery(CD)
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,github" />
+<img src="https://skillicons.dev/icons?i=git,github,jenkins,githubactions,gitlab" />
 
 </p>
 
-
+---
 
 # 🚀 DevOps Workflow
 
@@ -130,5 +133,25 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
                    ▼
               CloudWatch Logs
 ```
+
+---
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alienx1&show_icons=true&locale=en&layout=compact" alt="alienx1" /></p>
+<br/>
+
+<p style = "border : 5px solid #FFA500"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alienx1&" alt="alienx1" /></p>
+
+
+<h3 align="left">Connect with me:-></h3>
+<p align="left">
+<a href="https://linkedin.com/in/abhisheks100" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekS100" height="30" width="40" />
+</a>
+<a href="https://twitter.com/_abhishekS100" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_abhishekS100" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/abhishek_s1729/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekS100" height="30" width="40" />
+</a>
+</p>
 
 
