@@ -116,3 +116,145 @@ Git • GitHub • Maven • SonarQube • Nexus • Nginx • Apache • EC2 �
 ---
 
 ⭐ If you like my projects, consider giving them a star!
+
+
+
+
+
+
+
+
+
+
+# ⚡ DevOps & Cloud Toolbox
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,linux,bash,python,git,github,prometheus,grafana,ansible,nginx,vscode" />
+
+</p>
+
+---
+
+# ☁️ AWS Services
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white"/>
+<img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VPC-8C4FFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ALB-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AutoScaling-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ACM-FF9900?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🚀 DevOps Workflow
+
+```text
+               Developer
+                   │
+                   ▼
+              GitHub Repository
+                   │
+         Git Push / Pull Request
+                   │
+                   ▼
+          GitHub Actions / Jenkins
+                   │
+      ┌────────────┴─────────────┐
+      │                          │
+      ▼                          ▼
+ SonarQube                 Unit Testing
+      │                          │
+      └────────────┬─────────────┘
+                   ▼
+             Docker Build
+                   │
+                   ▼
+            Push Docker Image
+             Amazon ECR
+                   │
+                   ▼
+      Terraform Infrastructure
+                   │
+                   ▼
+             Amazon EKS Cluster
+                   │
+                   ▼
+          Kubernetes Deployment
+                   │
+                   ▼
+      Prometheus + Grafana
+                   │
+                   ▼
+              CloudWatch Logs
+```
+
+---
+
+# ⚙️ Tech Stack
+
+| Category | Tools |
+|----------|-------|
+| ☁️ Cloud | AWS |
+| 📦 Containers | Docker |
+| ☸️ Orchestration | Kubernetes |
+| 🏗️ IaC | Terraform |
+| 🔄 CI/CD | GitHub Actions, Jenkins |
+| 📊 Monitoring | Prometheus, Grafana |
+| 🔍 Code Quality | SonarQube |
+| 📦 Artifact Repository | Nexus |
+| 🐧 OS | Linux |
+| 📜 Scripting | Bash, Python |
+| 🌐 Web Server | Nginx |
+| 🔀 Version Control | Git, GitHub |
+
+---
+
+# 💻 DevOps Animation
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="650">
+
+</p>
+
+---
+
+# 🚀 Kubernetes
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,aws" />
+
+</p>
+
+---
+
+# 📈 Monitoring
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+
+</p>
+
+---
+
+# 🔥 CI/CD
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,github" />
+
+</p>
