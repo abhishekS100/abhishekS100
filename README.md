@@ -1,5 +1,5 @@
 <p align="center">
-   # Hi 👋, I'm Abhishek Sharma 
+    Hey👋, I'm Abhishek Sharma 
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF9900&center=true&vCenter=true&width=900&lines=AWS+DevOps+Engineer;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Cloud+Infrastructure;Linux+%7C+GitHub+Actions+%7C+Jenkins" />
