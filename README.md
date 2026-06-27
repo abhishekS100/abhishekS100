@@ -12,9 +12,10 @@ You can click the Preview link to take a look at your changes.
 </p>
  
 
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekS100&label=Profile%20views&color=0e75b6&style=flat" alt="alienx1" /> </p>
 
 ### 🚀 AWS DevOps Engineer | Cloud Enthusiast | Automation Advocate
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekS100&label=Profile%20views&color=0e75b6&style=flat" alt="alienx1" /> </p>
 I'm a DevOps Engineer passionate about building scalable, secure, and highly available cloud infrastructure. I enjoy automating deployments, optimizing CI/CD pipelines, and managing Kubernetes environments on AWS.
 
 ---
@@ -35,7 +36,7 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 ## 🚀 DevOps 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,git,github,prometheus,grafana,ansible,linux,bash,python,nginx,vscode" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,ansible,git,github,prometheus,grafana,linux,bash,python,typescript,vscode" />
 
 </p>
 
@@ -50,6 +51,8 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 <img src="https://go-skill-icons.vercel.app/api/icons?i=rds" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=lambda" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=dynamodb" height="55"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=appsync" height="55"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=stepfunction" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=ecs" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=ecr" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=eks" height="55"/>
@@ -65,7 +68,29 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+
+</p>
+
+---
+
+## 📈 Infrastructure as Code (IaC)
+
+<p align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cdk" height="55"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cloudformation" height="55"/>
+<img src="https://skillicons.dev/icons?i=terraform" />
+
+</p>
+
+---
+
+## 🔥 Continuous Integration(CI) and Continuous Delivery(CD)
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,jenkins,githubactions,gitlab" />
 
 </p>
 
@@ -77,16 +102,6 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudwatch" height="55"/>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-
-</p>
-
----
-
-## 🔥 Continuous Integration(CI) and Continuous Delivery(CD)
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,jenkins,githubactions,gitlab" />
 
 </p>
 
@@ -142,14 +157,15 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 
 <h3 align="left">Connect with me:-></h3>
 <br>
-</br>
 <p align="left">
 <a href="https://linkedin.com/in/abhisheks100" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekS100" height="30" width="40" />
 </a>
+     
 <a href="https://twitter.com/_abhishekS100" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_abhishekS100" height="30" width="40" />
 </a>
+
 <a href="https://www.instagram.com/abhishek_s1729/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekS100" height="30" width="40" />
 </a>
@@ -169,8 +185,5 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 ---
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Thank%20You&fontSize=55&fontAlignY=35&desc=AWS%20DevOps%20Engineer%20|%20Cloud%20Infrastructure%20|%20Kubernetes%20|%20Terraform&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Thank%20You&fontSize=55&fontAlignY=35&desc=Curious%20|%20Consistent%20|%20Resilient%20|%20Successful&descAlignY=55&animation=fadeIn"/>
 </p>
-
-
-
