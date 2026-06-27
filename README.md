@@ -70,7 +70,9 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,argocd" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="55" alt="Helm"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="55" alt="Argo CD"/>
 
 </p>
 
@@ -80,6 +82,7 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 
 <p>
 
+<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v20.0/dist/DeveloperTools/AWSCloudDevelopmentKit.png" height="55" alt="AWS CDK"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudformation" height="55"/>
 <img src="https://skillicons.dev/icons?i=terraform" />
 
