@@ -34,9 +34,9 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 ---
 
 ## 🚀 DevOps 
-<p align="center">
+<p>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,ansible,git,github,prometheus,grafana,linux,bash,python,typescript,vscode" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,git,github,prometheus,grafana,linux,bash,python,typescript,vscode" />
 
 </p>
 
@@ -44,7 +44,7 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 
 ## ☁️ AWS Services
 
-<p align="center">
+<p>
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=ec2" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=s3" height="55"/>
@@ -68,7 +68,7 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 
 ## 🚀 Contanerization and Orchestration
 
-<p align="center">
+<p>
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 
@@ -78,7 +78,7 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 
 ## 📈 Infrastructure as Code (IaC)
 
-<p align="center">
+<p>
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cdk" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudformation" height="55"/>
@@ -90,7 +90,7 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 
 ## 🔥 Continuous Integration(CI) and Continuous Delivery(CD)
 
-<p align="center">
+<p>
 
 <img src="https://skillicons.dev/icons?i=git,github,jenkins,githubactions,gitlab" />
 
@@ -100,7 +100,7 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 
 ## 📈 Observability and Monitoring 
 
-<p align="center">
+<p>
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudwatch" height="55"/>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
