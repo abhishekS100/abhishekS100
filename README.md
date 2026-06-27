@@ -52,12 +52,11 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 <img src="https://go-skill-icons.vercel.app/api/icons?i=lambda" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=dynamodb" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=apigateway" height="55"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sqs" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=ecs" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=ecr" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=eks" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudformation" height="55"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sns" height="55"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sqs" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudfront" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudwatch" height="55"/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cognito" height="55"/>
