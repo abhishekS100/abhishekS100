@@ -82,10 +82,6 @@ I'm a DevOps Engineer passionate about building scalable, secure, and highly ava
 
 <p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws" height="55"/>
-<b>&nbsp;AWS CDK</b>
-</p>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudformation" height="55"/>
 <img src="https://skillicons.dev/icons?i=terraform" />
 
