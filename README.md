@@ -258,3 +258,77 @@ Git • GitHub • Maven • SonarQube • Nexus • Nginx • Apache • EC2 �
 <img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,github" />
 
 </p>
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ec2" height="55"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=eks" height="55"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ecr" height="55"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ecs" height="55"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=s3" height="55"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=rds" height="55"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=route53" height="55"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vpc" height="55"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cloudwatch" height="55"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=iam" height="55"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cloudformation" height="55"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cloudfront" height="55"/>
+
+</p>
+
+
+
+
+
+
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="650"/>
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+## 🚀 DevOps Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,git,github,prometheus,grafana,ansible,linux,bash,python,nginx,vscode" />
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF9900&center=true&vCenter=true&width=900&lines=AWS+DevOps+Engineer;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Cloud+Infrastructure;Linux+%7C+GitHub+Actions+%7C+Jenkins" />
+</p>
